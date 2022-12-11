@@ -18,5 +18,3 @@ Para que este codigo funcione se requiere del codigo 5 y sin el no funciona
 ![ejecucion.png](ejecucion.png)
 
 
-<br>
-**[<- Regresar al inicio](../README.md)**
