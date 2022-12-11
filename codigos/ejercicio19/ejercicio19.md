@@ -10,3 +10,5 @@ Requiere de otro codigo para funcionar correctamente y para correrlo sin problem
 
 ## Codigo 19 CON CORRECIONES: 
 ![CODIGO19.png](CODIGO19.png)
+
+[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/tree/main/README.md)
