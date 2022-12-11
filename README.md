@@ -17,10 +17,10 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 
 ## **LISTA DE EJERCICIOS** 
 <br>
-1. 
-2. 
-3.
-4.
+[1.- Ejercicio 6](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/codigos/Ejercicio6/ejercicio6.md)
+<br>
+3. 
+4. 
 5.
 6.
 7.
@@ -66,5 +66,7 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 47.
 48.
 49.
-50. 
+50.
+51.
+52. 
 
