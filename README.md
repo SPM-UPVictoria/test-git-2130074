@@ -1,4 +1,4 @@
-#CODIGOS 
+**CODIGOS** 
 
 
 Libro: WICKED COOL SHELL SCRIPTS 
@@ -18,5 +18,8 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 <br>
 
 
-#LISTA DE EJERCICIOS 
-###1.- [ejercicio6.sh]
+**LISTA DE EJERCICIOS** 
+<br>
+1.- ejercicio6.sh
+<br>
+2.- ejercicio8.sh 
