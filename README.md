@@ -20,6 +20,6 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 
 **LISTA DE EJERCICIOS** 
 <br>
-1.- ejercicio6.sh
+1.- **[Codigo 6](ejercicio6.sh)**
 <br>
 2.- ejercicio8.sh 
