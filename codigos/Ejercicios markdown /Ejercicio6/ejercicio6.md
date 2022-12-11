@@ -11,8 +11,8 @@ Para que este codigo funcione se requiere del codigo 5 y sin el no funciona
 <br>
 
 ## Codigo 6 CON CORRECIONES: 
-![CODIGO6.PNG](CODIGO6.PNG)
-![CODIGO6-1.PNG](CODIGO6-1.PNG)
+![CODIGO6.png](CODIGO6.png)
+![CODIGO6-1.png](CODIGO6-1.png)
 
 ### **EJECUCION DEL CODIGO**
 ![ejecucion.png](ejecucion.png)

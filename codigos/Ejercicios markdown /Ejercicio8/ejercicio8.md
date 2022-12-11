@@ -8,7 +8,7 @@ Se eliminaron las llaves para una mejor ejecucion y se remplazo el echon() por u
 <br>
 
 ## Codigo 8 CON CORRECIONES: 
-![CODIGO8.PNG](CODIGO8.PNG)
+![CODIGO8.png](CODIGO8.png)
 
 ### **EJECUCION DEL CODIGO**
-![ejecucion.png](ejecucion.png)
+![ejecucion.png](ejecucion .png)

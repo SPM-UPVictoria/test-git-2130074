@@ -9,4 +9,4 @@ Requiere de otro codigo para funcionar correctamente y para correrlo sin problem
 <br>
 
 ## Codigo 19 CON CORRECIONES: 
-![CODIGO19.PNG](CODIGO19.PNG)
+![CODIGO19.png](CODIGO19.png)
