@@ -1,9 +1,11 @@
-# **CODIGO 29**
+# **CODIGO 30**
 <br>
-Su función es mostrar el contenido de un archivo
+El comando quota muestra nuevas flags
+<br>
+IMPORTANTE: Tiene que estar instalado el comando quota-tools para poderse ejecutar
 <br>
 
-## Codigo 29 : 
+## Codigo 30 : 
 ![codigo30.png](codigo30.png)
 
 
