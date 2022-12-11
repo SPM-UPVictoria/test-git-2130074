@@ -17,7 +17,8 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 
 ## **LISTA DE EJERCICIOS** 
 <br>
-### 1.- **[Codigo 6](codigos/Ejercicios markdown/Ejercico6/ejercicio6.md)**
+### 1. [**Codigo 6**](codigos/Ejercicios markdown/Ejercico6/ejercicio6.md)
+1.- [Codigo 6](codigos/Ejercicios markdown/Ejercico6/ejercicio6.md)
 <br>
 ### 2.- **[Codigo 8](ejercicio8.sh)**
 
