@@ -16,8 +16,8 @@ MATERIA: MANTENIMIENTO A EQUIPO DE COMPUTO
 <br>
 
 ## **LISTA DE EJERCICIOS** 
-### 1. [**Codigo 6**](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/codigos/Ejercicio6/ejercicio6.md)
-
+### 1. [**EJERCICIO 6**](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/codigos/Ejercicio6/ejercicio6.md)
+### 3. [**EJERCICIO 11**](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/codigos/ejercicio11/ejercicio11.md)
 <br>
 3. 
 4. 
