@@ -19,4 +19,4 @@ Para que este codigo funcione se requiere del codigo 5 y sin el no funciona
 
 
 <br>
-**[<- Reggresar al inicio](/README.md)**
+**[<- Regresar al inicio](../README.md)**
