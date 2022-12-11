@@ -3,4 +3,5 @@
 Su función es mostrarle a el usuario si el numero es un numero flotante 
 <br>
 
-### **[Código 22](codigos/ejercicio22.sh)**
+## Codigo 22 
+![codigo22.png](codigo22.png)

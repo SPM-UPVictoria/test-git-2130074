@@ -1,5 +1,5 @@
 #!/bin/bash
-. /home/luisana/Escritorio/test-git-2130074/codigos/ejercicio5.sh #se le agrega la direccion para que mande a llamar el ejercicio5 ya que es necesario
+. /home/luisana/Escritorio/test-git-2130074/codigos/Ejercicio6/ejercicio5.sh #se le agrega la direccion para que mande a llamar el ejercicio5 ya que es necesario
 
 validfloat()
 {
