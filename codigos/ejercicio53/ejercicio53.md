@@ -9,4 +9,4 @@ Instalar inetuils en ArchLinux: sudo pacman -S inetutils
 ![codigo53.png](codigo53.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
