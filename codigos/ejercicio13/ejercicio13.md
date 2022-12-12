@@ -10,5 +10,5 @@ Algo debo admitir es mi codigo favorito del momento se trata de un codigo en el 
 ### **EJECUCION DEL CODIGO**
 ![ejecucion.png](ejecucion.png)
 
-<br>
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)** 
+
+[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/tree/main/README.md)
