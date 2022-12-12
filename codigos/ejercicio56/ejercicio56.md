@@ -9,4 +9,4 @@ Su funcion es: Dado un codigo "ZIP" o postal de Estados Unidos nos mostrara a do
 ### **EJECUCION DEL CODIGO**
 ![ejecucion.png](ejecucion.png)
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
