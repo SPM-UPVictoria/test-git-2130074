@@ -7,4 +7,4 @@ Su funcion es cambiar la fecha de la computadora en base a los inputs del usuari
 ![codigo46.png](codigo46.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
