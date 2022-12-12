@@ -1,4 +1,4 @@
-# **CODIGO 85 **
+# **CODIGO 85**
 Se trata de un codigo en el cual puedes jugar y adivinar las capitales 
 ## Codigo 85
 ![codigo85.png](codigo85.png)
