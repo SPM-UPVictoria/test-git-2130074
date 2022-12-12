@@ -1,4 +1,4 @@
-# **CODIGO 8 **
+# **CODIGO 8**
 Se trata de un codigo en donde se agrega "%" al final 
 
 ## Codigo 8 SIN CORRECIONES : 
