@@ -7,4 +7,4 @@ Su función es mostrar las libreias de la cerptea de Itunes
 ![codigo81.png](codigo81.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
