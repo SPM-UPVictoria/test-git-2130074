@@ -7,4 +7,4 @@ Su funcion es: Hace un cambio de monedas entre las mas comunes.Sin embargo, la p
 ![codigo60.png](codigo60.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
