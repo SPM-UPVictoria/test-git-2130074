@@ -7,4 +7,4 @@ Su funcion es: Buscar en la carpeta Crontab para ver si tiene algo que hacer dia
 ![codigo49.png](codigo49.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
