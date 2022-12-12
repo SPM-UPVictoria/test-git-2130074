@@ -8,6 +8,6 @@ Su funcion es imprimir el entorno de desarrollo en formato HTML y ademas funcion
 
 ### **EJECUCION DEL CODIGO**
 ![ejecucion.png](ejecucion.png)
-![ejecucion-1.png](ejecucion-1.png)
+![ejercicion-1.png](ejercicion-1.png)
 
 [INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/tree/main/README.md)
