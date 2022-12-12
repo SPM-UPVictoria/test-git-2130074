@@ -8,4 +8,4 @@ Su función es: Hacer un backup en .tgz de un directorio
 ![codigo52.png](codigo52.png)
 
 
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+**[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
