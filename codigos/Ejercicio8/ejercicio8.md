@@ -11,7 +11,8 @@ Se eliminaron las llaves para una mejor ejecucion y se remplazo el echon() por u
 ![CODIGO8.png](CODIGO8.png)
 
 ### **EJECUCION DEL CODIGO**
-![ejecucion.png](ejecucion .png)
+![ejecucion.png](ejecucion.png)
 
-<br>
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+
+[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/tree/main/README.md)
+

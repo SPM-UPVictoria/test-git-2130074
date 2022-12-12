@@ -2,7 +2,7 @@
 
 errors=0
 
-source /home/luisana/Escritorio/test-git-2130074/codigos/library.sh  ##SI SE PRUEBA SE DEBE CAMBIAR LA DIRECCION A DONDE SE ENCUENTRE EL ARCHIVO
+source /home/luisana/Escritorio/test-git-2130074/codigos/library.sh ##SI SE PRUEBA SE DEBE CAMBIAR LA DIRECCION A DONDE SE ENCUENTRE EL ARCHIVO
 
 validate()
 {

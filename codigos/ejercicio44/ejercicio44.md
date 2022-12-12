@@ -1,10 +1,10 @@
-# **CODIGO 22**
+# **CODIGO 44**
 <br>
-El codigo genera recordatorios 
+Su funcion es limpiar detras de un usuario de paso
 <br>
 
-## Codigo 22 
-![codigo22.png](codigo22.png)
+## Codigo 44 
+![codigo44.png](codigo44.png)
 
 
 **[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**

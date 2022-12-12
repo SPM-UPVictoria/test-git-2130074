@@ -6,8 +6,6 @@ IMPORTANTE: Tiene que estar instalado el comando quota-tools para poderse ejecut
 <br>
 
 ## Codigo 30 : 
-![codigo30.png](codigo30.png)
+![ejercicio30.png](ejercicio30.png)
 
-
-<br>
-**[<- Reggresar al inicio](https://github.com/SPM-UPVictoria/test-git-2130074/blob/main/README.md)**
+[INICIO](https://github.com/SPM-UPVictoria/test-git-2130074/tree/main/README.md)
