@@ -5,6 +5,7 @@ Su funcion es utilizar el speak para reproducir algo
 
 ## Codigo 93 SIN CORRECIONES : 
 ![codigo93-2.png](codigo93-2.png)
+<br>
 ![codigo93-3.png](codigo93-3.png)
 <br>
 Se debio cambiar lo que tiene que ver con el comando say por el comando speak-ng para que funcione correctamente
