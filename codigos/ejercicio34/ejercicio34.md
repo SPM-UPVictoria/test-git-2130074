@@ -1,4 +1,4 @@
-# **CODIGO 34 **
+# **CODIGO 34**
 Se trata de un codigo en donde se agrega "%" al final 
 
 ## Codigo 34 : 
