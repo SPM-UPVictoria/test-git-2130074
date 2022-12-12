@@ -1,4 +1,4 @@
-# **CODIGO 31 **
+# **CODIGO 31**
 Tiene la funcion de hacer que el comando sftp se vuelva mas comodo
 ## Codigo 31
 ![codigo31.png](codigo31.png)

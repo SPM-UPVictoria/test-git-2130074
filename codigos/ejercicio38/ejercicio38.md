@@ -4,7 +4,7 @@ Su función es mostrar el espacio total en GB del equipo en uso
 <br>
 
 ## Codigo 38
-![codigo38.png](codigo38.png)
+![ejercicio38.png](ejercicio38.png)
 <br>
 
 ### **EJECUCION DEL CODIGO**
